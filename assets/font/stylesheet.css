@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'Millard';
+    src: url('Millard-Regular.eot');
+    src: local('Millard Regular'), local('Millard-Regular'),
+        url('Millard-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Millard-Regular.woff2') format('woff2'),
+        url('Millard-Regular.woff') format('woff'),
+        url('Millard-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Millard Condensed';
+    src: url('Millard-CondensedRegular.eot');
+    src: local('Millard Condensed Regular'), local('Millard-CondensedRegular'),
+        url('Millard-CondensedRegular.eot?#iefix') format('embedded-opentype'),
+        url('Millard-CondensedRegular.woff2') format('woff2'),
+        url('Millard-CondensedRegular.woff') format('woff'),
+        url('Millard-CondensedRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Millard Condensed';
+    src: url('Millard-CondensedRegularItalic.eot');
+    src: local('Millard Condensed Regular Italic'), local('Millard-CondensedRegularItalic'),
+        url('Millard-CondensedRegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('Millard-CondensedRegularItalic.woff2') format('woff2'),
+        url('Millard-CondensedRegularItalic.woff') format('woff'),
+        url('Millard-CondensedRegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Millard Condensed';
+    src: url('Millard-CondensedBold.eot');
+    src: local('Millard Condensed Bold'), local('Millard-CondensedBold'),
+        url('Millard-CondensedBold.eot?#iefix') format('embedded-opentype'),
+        url('Millard-CondensedBold.woff2') format('woff2'),
+        url('Millard-CondensedBold.woff') format('woff'),
+        url('Millard-CondensedBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Millard';
+    src: url('Millard-RegularItalic.eot');
+    src: local('Millard Regular Italic'), local('Millard-RegularItalic'),
+        url('Millard-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('Millard-RegularItalic.woff2') format('woff2'),
+        url('Millard-RegularItalic.woff') format('woff'),
+        url('Millard-RegularItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Millard';
+    src: url('Millard-Bold.eot');
+    src: local('Millard Bold'), local('Millard-Bold'),
+        url('Millard-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Millard-Bold.woff2') format('woff2'),
+        url('Millard-Bold.woff') format('woff'),
+        url('Millard-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Millard Condensed';
+    src: url('Millard-CondensedBoldItalic.eot');
+    src: local('Millard Condensed Bold Italic'), local('Millard-CondensedBoldItalic'),
+        url('Millard-CondensedBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Millard-CondensedBoldItalic.woff2') format('woff2'),
+        url('Millard-CondensedBoldItalic.woff') format('woff'),
+        url('Millard-CondensedBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Millard';
+    src: url('Millard-BoldItalic.eot');
+    src: local('Millard Bold Italic'), local('Millard-BoldItalic'),
+        url('Millard-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Millard-BoldItalic.woff2') format('woff2'),
+        url('Millard-BoldItalic.woff') format('woff'),
+        url('Millard-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
