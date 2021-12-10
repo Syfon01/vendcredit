@@ -266,6 +266,13 @@ body{
 .bg-whiter{
   background-color: #FDFEFF;
 }
+
+.navbar-light .navbar-nav .nav-link{
+  color: #000!important;
+}
+.nav-link.active{
+  border-bottom:2px solid #174c95;
+}
  /* X-Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
   .copyright-text{
