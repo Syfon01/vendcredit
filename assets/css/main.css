@@ -318,7 +318,7 @@ body{
   background-size: cover;
   background-repeat: no-repeat;
   overflow: hidden;
-  height: 100vh;
+  min-height: 80vh;
 }
 
 .feature-card-widget-3.card-2 .shapes img:nth-child(1) {
