@@ -34,11 +34,18 @@ body{
 /*====================================
  products
  ================================ */
+ 
  .product{
    background-image: url(/assets/img/bg-img-2.png);
    background-repeat: no-repeat;
 
  }
+ .faq{
+  background-image: url(/assets/img/footer-bg.png);
+  background-repeat: no-repeat;
+
+}
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
@@ -356,4 +363,11 @@ body{
 }
 .card-h{
   height: 100%;
+}
+
+.accordion-button{
+  background-color: #F9FAF9;
+}
+.accordion-item{
+  border: 0;
 }
