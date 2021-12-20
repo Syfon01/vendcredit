@@ -290,16 +290,7 @@ body{
   color: #51ba4c!important;
   font-weight: 600;
 }
- /* X-Small devices (portrait phones, less than 576px) */
-@media (max-width: 575.98px) { 
-  .copyright-text{
-    text-align: center;
-  }
-  .tx-36{
-    font-size: 1.8rem;
-  }
- }
-
+ 
  .mod{
   transform: translate3d(0px, 0px, 0px);
   transform-style: preserve-3d;
@@ -388,3 +379,22 @@ body{
 .vert-cont{
   position: relative;
 }
+/* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+  .copyright-text{
+    text-align: center;
+  }
+  .tx-36{
+    font-size: 1.8rem;
+  }
+  .vert-cert{
+    margin: 0;
+    position: relative;
+    top: 0%;
+    -ms-transform: translateY(0%);
+    transform: translateY(0%);
+  }
+  .vert-cont{
+    position: relative;
+  }
+ }
