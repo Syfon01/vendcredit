@@ -397,4 +397,7 @@ body{
   .vert-cont{
     position: relative;
   }
+  .tx-20{
+    font-size: 1.2rem;
+  }
  }
